@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MatthewDoesStuff
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m @MatthewDoesStuff.
+I'm an university student, currently learning C++, though I'm open for other coding languages.
 
 <!---
 MatthewDoesStuff/MatthewDoesStuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
